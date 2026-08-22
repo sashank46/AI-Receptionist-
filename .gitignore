@@ -1,0 +1,27 @@
+# Environment variables & secrets
+.env
+*.env
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Database & static generated media
+appointments.db
+*.db
+*.sqlite3
+static/audio/*.mp3
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+

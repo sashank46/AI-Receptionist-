@@ -1,0 +1,17 @@
+{
+  "business_name": "Sunrise Family Clinic",
+  "type": "clinic",
+  "hours": "We are open Monday to Saturday, 9 AM to 6 PM. Closed on Sundays.",
+  "address": "12 MG Road, Chennai",
+  "services": [
+    { "name": "General Consultation", "price": "₹300", "duration_minutes": 30 },
+    { "name": "Dental Checkup", "price": "₹500", "duration_minutes": 30 },
+    { "name": "Blood Test", "price": "₹250", "duration_minutes": 15 },
+    { "name": "Vaccination", "price": "₹400", "duration_minutes": 15 }
+  ],
+  "faqs": [
+    { "question": "Do you accept walk-ins?", "answer": "We prefer appointments, but walk-ins are accepted based on availability." },
+    { "question": "Do you accept insurance?", "answer": "We accept most major insurance providers. Please bring your insurance card." },
+    { "question": "Is parking available?", "answer": "Yes, free parking is available in front of the clinic." }
+  ]
+}
