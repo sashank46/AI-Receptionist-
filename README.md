@@ -65,7 +65,7 @@ An intelligent, zero-cost-tier **AI Phone Receptionist** designed for small busi
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/voice-receptionist.git
+git clone https://github.com/sashank46/AI-Receptionist-.git
 cd voice-receptionist
 
 # Create and activate Python virtual environment
@@ -181,8 +181,8 @@ To receive WhatsApp confirmation messages on your phone:
 
 ## ⚙️ Customizing Business Info & Booking Rules
 
-- Edit [`business_info.json`](file:///c:/Users/SASHANK/Downloads/voice-receptionist/business_info.json) to update business name, hours, services, prices, and FAQs.
-- Adjust slot intervals (`SLOT_MINUTES`), opening hours (`BUSINESS_OPEN_HOUR`), and closing hours (`BUSINESS_CLOSE_HOUR`) in [.env](file:///c:/Users/SASHANK/Downloads/voice-receptionist/.env).
+- Edit [`business_info.json`](business_info.json) to update business name, hours, services, prices, and FAQs.
+- Adjust slot intervals (`SLOT_MINUTES`), opening hours (`BUSINESS_OPEN_HOUR`), and closing hours (`BUSINESS_CLOSE_HOUR`) in [`.env.example`](.env.example).
 
 ---
 
