@@ -125,7 +125,7 @@ python test_chat.py
 Agent: Hi, thanks for calling! How can I help you today — booking an appointment, or a question?
 You: Hi, I'd like to book a dental checkup tomorrow at 10 AM.
 Agent: Can I have your name and phone number to complete the booking?
-You: Alex, +919876543210
+You: Alex, +9198xxxxxx10
 Agent: You're all set! I've booked a dental checkup for Alex on 2026-08-23 at 10:00.
 [SYSTEM] Booking confirmed! {'success': True, ...}
 ```
